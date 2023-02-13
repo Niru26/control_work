@@ -16,6 +16,7 @@
 // }
 //string.Join(", ", array); - Show Array;
 
+
 string[] stringArray1 = { "hello", "2", "world", ":-)" };
 string[] stringArray2 = { "1234", "1567", "-2", "computer science" };
 string[] stringArray3 = { "Russia", "Denmark", "Kazan" };
