@@ -1,0 +1,15 @@
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\bin\Debug\net6.0\control_work.exe
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\bin\Debug\net6.0\control_work.deps.json
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\bin\Debug\net6.0\control_work.runtimeconfig.json
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\bin\Debug\net6.0\control_work.dll
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\bin\Debug\net6.0\control_work.pdb
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.csproj.AssemblyReference.cache
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.AssemblyInfoInputs.cache
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.AssemblyInfo.cs
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.dll
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\refint\control_work.dll
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.pdb
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\control_work.genruntimeconfig.cache
+D:\Geekbrains\Geekbrains_Developer_career\20230213_control_work\control_work\obj\Debug\net6.0\ref\control_work.dll
