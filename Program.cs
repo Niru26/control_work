@@ -45,4 +45,4 @@ void showFilteredArray(string[] initialAray)
     Console.WriteLine($"[{string.Join(", ", arrayFinal)}]");
 }
 
-showFilteredArray(stringArray1);
+showFilteredArray(stringArray3);
