@@ -45,5 +45,7 @@ void showFilteredArray(string[] initialAray)
     Console.WriteLine($"[{string.Join(", ", arrayFinal)}]");
 }
 
+Console.Write($"Initial array: [{string.Join(", ", stringArray1)}]");
+Console.WriteLine(' ');
 Console.Write("Result: ");
-showFilteredArray(stringArray3);
+showFilteredArray(stringArray1);
